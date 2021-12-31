@@ -103,7 +103,7 @@ router.put('/:id', async(req, res) => {
         ProductTag.bulkCreate(newProductTags),
       ]);
     })
-    .then((updatedProductTags) => res.json(updatedProductTags))
+    .then((updatedProductTags) => res.json(updatedProductTags[0]))
     .catch((err) => {
       // console.log(err);
       res.status(400).json(err);
