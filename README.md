@@ -12,7 +12,10 @@ Internet retail, also known as **e-commerce**, is the largest sector of the elec
 4. Run npm start,once the server is running hit the routes.
 
 ## Mock-Up
-The following video shows the routes  being tested in Insomnia Core:
+The following video shows the routes  being tested in Insomnia Core:    
+
+https://user-images.githubusercontent.com/25469240/147820222-5b21f51d-0028-4b8b-84f1-edfd0b002c57.mp4
+
 
 ## Contributors
 Daliya Benny
